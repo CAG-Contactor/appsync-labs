@@ -331,7 +331,7 @@ Nu skall browsern visa en lista med användare hämtade från AppSync-resursen i
 
 ![browser-users](./browser-users.png)
 
-
+**Wop, du är nu fullfjädrad AppSync-ninja!!!**
 
 
 
