@@ -144,7 +144,7 @@ cd my-appsync-client
 npm i -S aws-appsync@2 aws-appsync-react@2 graphql graphql-tag react-apollo@2 
 ```
 
-För att undvika att man råkar checka in sin API-nyckel är det lämpligt att lägga till `aws-export.*` i `.gitignore` (vi kommer att lägga till filen `aws-export.ts` längre ner).
+För att undvika att man råkar checka in sin API-nyckel är det lämpligt att lägga till `aws-exports.*` i `.gitignore` (vi kommer att lägga till filen `aws-exports.js` längre ner).
 
 Nu ska vi först modifiera `src/App.tsx` (vi är lite lata och lägger alla komponenter i en och samma fil) så att vi kopplar ihop den med GraphQL
 
